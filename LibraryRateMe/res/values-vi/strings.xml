@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rateme__dialog_first_title">Đánh giá trải nghiệm của bạn</string>
+    <string name="rateme__dialog_first_message">Bạn đánh giá ứng dụng của chúng tôi như thế nào?</string>
+    <string name="rateme__dialog_first_button_rate">Xếp hạng ứng dụng trên CHPlay</string>
+    <string name="rateme__dialog_first_thanks">Cám ơn vì sự đánh giá của bạn!</string>
+    <string name="rateme__dialog_feedback_message">Bạn có thể chia sẻ phản hồi của mình?</string>
+    <string name="rateme__email_subject">Phản hồi tới %1$s</string>
+    <string name="rateme__icon_content_description">Icon</string>
+</resources>
