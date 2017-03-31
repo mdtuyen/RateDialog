@@ -1,0 +1,39 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+.settings/
+
+# metadata
+.metadata
+
+# rtf
+.gitignore.rtf
+
+# the Google Play keystore
+keystore-android
+
+# some file created by Mac
+.DS_Store
+
+# images-Readme
+images-readme/
+
+# Android studio
+.idea
+*.iml
+local.properties
+build/
+
+# Gradle
+.gradle
+gradle.properties
